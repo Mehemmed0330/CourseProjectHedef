@@ -6,6 +6,7 @@ import Counter from "./Counter"
 import Blog from "./Blog"
 import News from "./News"
 import FeedBacks from './FeedBacks'
+import Footer from './Footer'
 
 
 export default function MiddleSection() {
@@ -31,6 +32,9 @@ export default function MiddleSection() {
             </div>
             <div id='feedback'>
                 <FeedBacks />
+            </div>
+            <div id='footer'>
+                <Footer />
             </div>
         </div>
     )
