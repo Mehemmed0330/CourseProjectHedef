@@ -33,7 +33,7 @@ export default function MiddleSection() {
             <div id='feedback'>
                 <FeedBacks />
             </div>
-            <div id='footer'>
+            <div id='contact'>
                 <Footer />
             </div>
         </div>

@@ -36,7 +36,7 @@ export default function Header() {
         { name: "Kursumuz", to: "course" },
         { name: "Tələbələr", to: "blog" },
         { name: "Xəbərlər", to: "news" },
-        { name: "Contact", to: "contact" },
+        { name: "Əlaqə", to: "contact" },
     ]
     return (
         <header style={{ backgroundColor: headerColor, position: "fixed", width: "100%", zIndex: "1000", transition: "all ease 0.3s" }}>
