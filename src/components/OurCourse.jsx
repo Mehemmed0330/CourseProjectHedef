@@ -21,7 +21,8 @@ export default function OurCourse() {
                                     more={false}
                                     less={false}
                                     className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021 acquisitions 2021
-                                </ShowMoreText>                            </a>
+                                </ShowMoreText>
+                            </a>
                             <ShowMoreText
                                 lines={2}
                                 expanded={false}
@@ -45,7 +46,8 @@ export default function OurCourse() {
                                     more={false}
                                     less={false}
                                     className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021 acquisitions 2021
-                                </ShowMoreText>                            </a>
+                                </ShowMoreText>
+                            </a>
                             <ShowMoreText
                                 lines={2}
                                 expanded={false}
@@ -91,7 +93,8 @@ export default function OurCourse() {
                                     more={false}
                                     less={false}
                                     className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021 acquisitions 2021
-                                </ShowMoreText>                            </a>
+                                </ShowMoreText>
+                            </a>
                             <ShowMoreText
                                 lines={2}
                                 expanded={false}
@@ -114,7 +117,8 @@ export default function OurCourse() {
                                     more={false}
                                     less={false}
                                     className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021 acquisitions 2021
-                                </ShowMoreText>                            </a>
+                                </ShowMoreText>
+                            </a>
                             <ShowMoreText
                                 lines={2}
                                 expanded={false}
