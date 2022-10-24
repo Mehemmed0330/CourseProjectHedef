@@ -8,7 +8,7 @@ export default function Apply() {
 
     return (
         <div className='bg-[rgb(62,69,149)] min-h-[100vh] '>
-            <div className='py-[80px] w-[50%] mx-auto'>
+            <div className='py-[50px] w-[50%] mx-auto'>
                 <div className='flex justify-center my-10'>
                     <button onClick={() => setIndex(0)} className="bg-[rgb(62,69,149)] hover:bg-white border-2 border-white hover:text-[rgb(62,69,149)] hover:border-2 text-white font-bold py-3 px-8 rounded mx-4 text-[18px]"
                         style={{
